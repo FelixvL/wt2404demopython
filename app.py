@@ -6,4 +6,4 @@ CORS(app)
 
 @app.route("/")
 def helloWorld():
-  return "Root Mount WOZ"
+  return "Dit is versie 2"
