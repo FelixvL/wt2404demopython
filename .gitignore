@@ -1,2 +1,4 @@
 wachtwoorden.secret
 __pycache__/**
+.idea/**
+.DS_store
