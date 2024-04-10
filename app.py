@@ -6,4 +6,4 @@ CORS(app)
 
 @app.route("/")
 def helloWorld():
-  return "Dit is de derde versie"
+  return "Dit is de vierde versie"
