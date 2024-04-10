@@ -1,2 +1,3 @@
 wachtwoorden.secret
 __pycache__/**
+.idea/**
